@@ -1,0 +1,1198 @@
+{
+    "journal":[
+        {
+            "author":"Kai-Chun Liu, Michael Can, Heng-Cheng Kuo, Chia-Yeh Hsieh, Hsiang-Yun Huang, Chia-Tai Chan and Yu Tsao",
+            "topic":"Domain-adaptive Fall Detection Using Deep Adversarial Training",
+            "publisher":" IEEE Transactions on Neural Systems and Rehabilitation Engineering, Vol. 29,  pp. 1243-1251,  Jun, 2021.",
+            "remark":"(SCIE, EI)"
+        },
+        {
+            "author":"Chia-Yeh Hsieh, Hsiang-Yun Huang, Kai-Chun Liu, Chien-Pin Liu, Chia-Tai Chan and Steen Jun-Ping Hsu",
+            "topic":"Multiphase Identification Algorithm for Fall Recording Systems Using a Single Wearable Inertial Sensor",
+            "publisher":"Sensors, Vol. 21, No. 9, 3302, 2021.",
+            "remark":"(SCIE, EI)"
+        },
+        {
+            "author":"Chih-Ya Chang, Chia-Yeh Hsieh, Hsiang-Yun Huang, Yung-Tsan Wu, Liang-Cheng Chen, Chia-Tai Chan, and Kai-Chun Liu",
+            "topic":"Automatic Functional Shoulder Task Identification and Sub-Task Segmentation Using Wearable Inertial Measurement Units for Frozen Shoulder Assessment",
+            "publisher":"Sensors, Vol. 21, No. 1, 106, 2021.",
+            "remark":"(SCIE, EI)"
+        },
+        {
+            "author":"Hsiang-Yun Huang, Chia-Yeh Hsieh, Kai-Chun Liu, Steen Jun-Ping Hsu, and Chia-Tai Chan",
+            "topic":"Fluid Intake Monitoring System Using a Wearable Inertial Sensor for Fluid Intake Management",
+            "publisher":"Sensors, Vol. 20, No. 22, 6682, November 2020.",
+            "remark":"(SCIE, EI) (Corresponding author)"
+        },
+        {
+            "author":"Chia-Yeh Hsieh, Hsiang-Yun Huang, Kai-Chun Liu, Kun-Hui Chen, Steen Jun-Ping Hsu, and Chia-Tai Chan",
+            "topic":"Subtask Segmentation of Timed Up and Go Test for Mobility Assessment of Perioperative Total Knee Arthroplasty",
+            "publisher":"Sensors, Vol. 20, No. 21, 6302, November 2020.",
+            "remark":"(SCIE, EI) (Corresponding author)"
+        },
+        {
+            "author":"Kai-Chun Liu, Chia-Yeh Hsieh, Hsiang-Yun Huang, Li-Tzu Chiu, Steen Jun-Ping Hsu, and Chia-Tai Chan",
+            "topic":"Drinking Event Detection and Episode Identification Using 3D-Printed Smart Cup",
+            "publisher":"IEEE Sensors Journal, Vol. 20, Issue 22, Nov. 15, 15 2020, 13743-13751.",
+            "remark":"(SCIE) (Corresponding author)"
+        },
+        {
+            "author":"Kai-Chun Liu, Chia-Yeh Hsieh, Hsiang-Yun Huang, Steen Jun-Ping Hsu, and Chia-Tai Chan",
+            "topic":"An Analysis of Segmentation Approaches and Window Sizes in Wearable-Based Critical Fall Detection Systems With Machine Learning Models",
+            "publisher":"IEEE Sensors Journal, Vol. 20, Issue 6, March 15, 2020, 3303-3313.",
+            "remark":"(SCIE) (Corresponding author)"
+        },
+        {
+            "author":"Hsiang-Yun Huang, Chia-Yeh Hsieh, Kai-Chun Liu, Hui-Chun Cheng, Steen J. Hsu, and Chia-Tai Chan",
+            "topic":"Multi-Sensor Fusion Approach for Improving Map-Based Indoor Pedestrian Localization",
+            "publisher":"Sensors, Vol. 19, No. 17, 3786, September 2019.",
+            "remark":"(SCIE, EI) (Corresponding author)"
+        },
+        {
+            "author":"Kai-Chun Liu, Chia-Yeh Hsieh, Steen J. Hsu, and Chia-Tai Chan",
+            "topic":"Impact of Sampling Rate on Wearable-based Fall Detection Systems Based on Machine Learning Models",
+            "publisher":"IEEE Sensors Journal, Vol.18, Issue 23, Dec. 1, 2018, 9882-9890.",
+            "remark":"(SCIE) (Corresponding author)"
+        },
+        {
+            "author":"Kai-Chun Liu, Chia-Yeh Hsieh, and Chia-Tai Chan",
+            "topic":"Transition-Aware Housekeeping Task Monitoring Using Single Wrist-Worn Sensor",
+            "publisher":"IEEE Sensors Journal, Vol.18, Issue 21, Nov. 1, 2018, 8950-8962.",
+            "remark":"(SCIE) (Corresponding author)"
+        },
+        {
+            "author":"I-Ting Kuo, Kuang-Yi Chang, De-Fong Juan, Steen J. Hsu, Chia-Tai Chan, and Mei-Yung Tsou",
+            "topic":"Time-dependent analysis of dosage delivery information for patient-controlled analgesia services",
+            "publisher":"PloS ONE, vol. 13, p. e0194140, March 2018, DOI: https://doi.org/10.1371/journal.pone.0194140.",
+            "remark":"(SCIE) (Corresponding author)"
+        },
+        {
+            "author":"Chien-Lung Shen, Tzu-Hao Huang, Po-Chun Hsu, Ya-Chi Ko, Fen-Ling Chen, Wei-Chung Wang, Tsair Kao, and Chia-Tai Chan",
+            "topic":"Respiratory Rate Estimation by Using ECG, Impedance, and Motion Sensing in Smart Clothing",
+            "publisher":"Vol. 37, Issue 6, pp.826-842, December 2017, Journal of Medical and Biological Engineering.",
+            "remark":"(SCIE) (Corresponding author)"
+        },
+        {
+            "author":"Jung-Hua Ho, Yin Chang, and Chia-Tai Chan",
+            "topic":"A Technique to real-time overlap a reflection image and autofluorescence image from cSLO",
+            "publisher":"Journal of Medical and Biological Engineering, pp.1-8, July 2017, DOI: https://doi.org/10.1007/s40846-017-0314-5.",
+            "remark":"(SCIE) (Corresponding author)"
+        },
+        {
+            "author":"Chih-Yen Chiang, Kun-Hui Chen, Kai-Chun Liu, Steen J. Hsu and Chia-Tai Chan",
+            "topic":"Data Collection and Analysis Using Wearable Sensors for Monitoring Knee Range of Motion after Total Knee Arthroplasty",
+            "publisher":"Sensors, Vol. 17, No. 2, 418, February 2017.",
+            "remark":"(SCIE, EI) (Corresponding author)"
+        },
+        {
+            "author":"Chia-Yeh Hsieh, Kai-Chun Liu, Chih-Ning Huang, Woei-Chyn Chu and Chia-Tai Chan",
+            "topic":"Novel Hierarchical Fall Detection Algorithm Using a Multiphase Fall Model",
+            "publisher":"Sensors, Vol. 17, No.2, 307, February 2017.",
+            "remark":"(SCIE, EI) (Corresponding author)"
+        },
+        {
+            "author":"Kai-Chun Liu, and Chia-Tai Chan",
+            "topic":"Significant Change Spotting for Periodic Human Motion Segmentation of Cleaning Tasks Using Wearable Sensors",
+            "publisher":"Sensors, Vol. 17, No. 1, 187, January 2017.",
+            "remark":"(SCIE, EI) (Corresponding author)"
+        },
+        {
+            "author":"Chung-Tse Liu, Chia-Tai Chan",
+            "topic":"Exercise Performance Measurement with Smartphone Embedded Sensor for Well-Being Management",
+            "publisher":"International Journal of Environmental Research and Public Health, Vol. 13, No. 10., 1001, October 2016,  1001.",
+            "remark":"(SCIE, EI) (Corresponding author)"
+        },
+        {
+            "author":"Chung-Tse Liu, Chia-Tai Chan",
+            "topic":"A Fuzzy Logic Prompting Mechanism Based on Pattern Recognition and Accumulated Activity Effective Index Using a Smartphone Embedded Sensor",
+            "publisher":"Sensors, Vol. 16, No.8, August 2016, 1332.",
+            "remark":"(SCIE) (Corresponding author)"
+        },
+        {
+            "author":"Kun-Hui Chen, Po-Chao Chen, Kai-Chun Liu, Chia-Tai Chan",
+            "topic":"Wearable Sensor-based Rehabilitation Exercise Assessment for Knee",
+            "publisher":"Sensors, Vol. 15, No.2, Feburary 2015, pp. 4193-4211.",
+            "remark":"(SCIE)(Corresponding author)"
+        },
+        {
+            "author":"Chung-Tse Liu, Chia-Tai Chan",
+            "topic":"An Accumulated Activity Effective Index for Promoting Physical Activity: A Design and Development Study in a Mobile and Pervasive Health Context",
+            "publisher":"Journal of Medical Internet Research Protocols, Vol. 4, Iss. 1, e5, January 2015.",
+            "remark":"(Corresponding author)"
+        },
+        {
+            "author":"Chih-Yen Chiang, Kai-Chun Liu, Steen J. Hsu and Chia-Tai Chan",
+            "topic":"Compound Gesture Classification for Context-aware Healthcare Monitoring System",
+            "publisher":"Journal of Medical Imaging and Health Informatics, Vol. 4, No. 3, June 2014, pp. 427-436.",
+            "remark":"(SCIE) (Corresponding author)"
+        },
+        {
+            "author":"Chih-Ning Huang, Chia-Tai Chan",
+            "topic":"A ZigBee-based Location-aware Fall Detection System for Improving Elderly Telecare",
+            "publisher":"International Journal of Environmental Research and Public Health, Vol. 11, No. 4, April 2014, pp.4233-4248.",
+            "remark":"(SCIE, EI)(Corresponding author)"
+        },
+        {
+            "author":"Chih-Yen Chiang, Steen J. Hsu and Chia-Tai Chan",
+            "topic":"A Resident’s Behavior Simulation Model for Nursing Home Healthcare Services",
+            "publisher":"Bio-Medical Materials and Engineering, Vol. 24, No. 1, 2014, pp. 69–75.",
+            "remark":"(SCIE, EI) (Corresponding author)"
+        },
+        {
+            "author":"Chih-Yen Chiang, Chih-Ning Huang, Steen J. Hsu, Chia-Tai Chan",
+            "topic":"Behavior Assessment for the Elderly Living Alone Based on Fuzzy Logic Approach",
+            "publisher":"Advanced Science Letters, Vol. 19, No. 7, July 2013, pp.2042-2045.",
+            "remark":"(Corresponding author)"
+        },
+        {
+            "author":"I-Ting Kuo, Kuang-Yi Chang, Mei-Yung Tsou, De-Fong Juan, Steen J. Hsu, Chia-Tai Chan",
+            "topic":"Fuzzy Logic Algorithm for Quantifying Clinical Effectiveness of Genitourinary Patient-Controlled Analgesia Services",
+            "publisher":"Advanced Science Letters, Vol. 19, No. 2, February 2013, pp.529-533.",
+            "remark":"(Corresponding author)"
+        },
+        {
+            "author":"Chih-Ning Huang, Chih-Yen Chiang, Chun-Bin Chiu, Steen J. Hsu, and Chia-Tai Chan",
+            "topic":"Accelerometry-based Motion Pattern Analysis for Reliable Fall Detection",
+            "publisher":"Advanced Science Letters, Vol. 9, No. 1, April 2012, pp.412-416.",
+            "remark":"(Corresponding author)"
+        },
+        {
+            "author":"Shyr-Kuen Chen, Tsair Kao, Chia-Tai Chan, Chih-Ning Huang, Chih-Yen Chiang, Chin-Yu Lai, Tse-Hua Tung, and Pi-Chung Wang",
+            "topic":"A Reliable Transmission Protocol for ZigBee-based Wireless Patient Monitoring",
+            "publisher":"IEEE Transactions on Information Technology in Biomedicine, Vol. 16, No. 1, January 2012, pp. 6-16.",
+            "remark":"(SCI, EI)"
+        },
+        {
+            "author":"William Chu, Jiun-Hung Lin, Shih-Tsang Tang§, Woei-Chyn Chu, Shuenn-Tsong Young and Chia-Tai Chan",
+            "topic":"A Rapid and Convenient Method for Determining Limb Compartment Pressure",
+            "publisher":"Biomedical Engineering: Applications, Basis and Communications, Vol. 23, No. 6, December 2011, pp.435-444.",
+            "remark":"(SCIE) (Corresponding author)"
+        },
+        {
+            "author":"Chih-Yen Chiang, Hung-Chun Chen, Kuang-Yi Chang, Mei-Yung Tsou, I-Ting Kuo, Steen J. Hsu, and Chia-Tai Chan",
+            "topic":"Rule-Based Evaluation for the Patient-Controlled Analgesia Clinical Effectiveness",
+            "publisher":"Journal of Clinical Monitoring and Computing, Vol. 25, Issue. 3, April 2011, pp. 9-11.",
+            "remark":"(SCIE, EI) (Corresponding author)"
+        },
+        {
+            "author":"Chih-Ning Huang, Guan-Chun Chen, Chih-Yen Chiang, Jui-Sheng Chang, Steen J. Hsu, Woei-Chyn Chu, Chia-Tai Chan",
+            "topic":"Fall Detection System for Healthcare Quality Improvement in Residential Care Facilities",
+            "publisher":"Journal of Medical and Biological Engineering, Vol.30, No.4, August 2010, pp. 247-252.",
+            "remark":"(SCIE) (Corresponding author)"
+        },
+        {
+            "author":"Chun-Liang Lee, Chia-Tai Chan, and Pi-Chung Wang",
+            "topic":"Packet Classification with Hierarchical Cross-Producting",
+            "publisher":"IEICE Transactions on Information and Systems, Vol.E93-D, No. 5, May 2010, pp. 1117-1126.",
+            "remark":"(SCIE, EI)"
+        },
+        {
+            "author":"I-Ting Kuo, Chih-Yen Chiang, Kuang-Yi Chang, Mei-Yung Tsou, Steen J.Hsu, Chia-Tai Chan",
+            "topic":"Design and Implementation of PCA Dosage Information Generator",
+            "publisher":"Journal of Clinical Monitoring and Computing, pp. 20-22, 2010.",
+            "remark":"(SCIE, EI) (Corresponding author)"
+        },
+        {
+            "author":"I-Ting Kuo, Mei-Yung Tsou, Kuang-Yi Chang, Chih-Yen Chiang, Steen J.Hsu, Chia-Tai Chan",
+            "topic":"Web-Based Electronic Data Collection System to Support Patient-Controlled Analgesia in Taiwan",
+            "publisher":"Journal of Clinical Monitoring and Computing, pp. 22-23, 2010.",
+            "remark":"(SCIE, EI) (Corresponding author)"
+        },
+        {
+            "author":"Yi-Cheng Chan, Chia-Liang Lin, Chia-Tai Chan, Cheng-Yuan Ho",
+            "topic":"CODE TCP: A competitive delay-based TCP",
+            "publisher":"Computer Communications, Vol.33, No.9, 2010, pp. 1013-1029.",
+            "remark":"(SCIE, EI)"
+        },
+        {
+            "author":"Chia-Rong Yen, Mei-Yung Tsou, Mercedes Susan Mandell, Chia-Tai Chan, Kwok-Hon Chan, Tony H Chen, Kuang-Yi Chang",
+            "topic":"An Analysis of Patient Variables that Influence Intravenous Patient-controlled Analgesic Use of Morphine with Quantile Regression",
+            "publisher":"Anesthesiology, Vol. 112, No. 3, March 2010, pp. 688-695.",
+            "remark":"(SCI)"
+        },
+        {
+            "author":"Pang-Wei Hsu, Tzong-Huei Lin, Herbert H. Chang, Yu-Ting Chen, Yin-Jiun Tseng, Chia-Hung Hsiao, Chia-Tai Chan, Hung-Wen Chiu, David Hung-Tsang Yen, Po-Chou Chen, Woei-Chyn Chu",
+            "topic":"Simulations and experiments for optimal deployment of an RFID-based location-aware system",
+            "publisher":"Wireless Communications and Mobile Computing 2009, 10.1002/wcm.848.",
+            "remark":"(SCI, EI)"
+        },
+        {
+            "author":"Chun-Ning Ho, Mei-Yung Tsou, Chia-Tai Chan, I-Ting Kuo, Kwok-Hon Chan, Kuang-Yi Chang",
+            "topic":"The Relationship Between Lockout Interval and Requirement for Patient-controlled Epidural Analgesia",
+            "publisher":"Acta Anaesthesiologica Taiwanica, 2008; 46(3): 112−117.",
+            "remark":""
+        },
+        {
+            "author":"Po-Yen Lin, Chih-Yen Chiang, Chih-Ning Huang, Woei-Chyn Chu and Chia-Tai Chan",
+            "topic":"Development of an intelligent VoWLAN services for patient care improvement",
+            "publisher":"Journal of Biomedical Science and Engineering, Vol. 1, No. 2, August 2008, pp. 98-103.",
+            "remark":"(Corresponding author)"
+        },
+        {
+            "author":"Pi-Chung Wang, Chun-Liang Lee, Chia-Tai Chan and Hung-Yi Chang",
+            "topic":"Performance Improvement of Two-Dimensional Packet Classification by Filter Rephrasing",
+            "publisher":"IEEE/ACM Transactions on Networking, Vol. 15, No. 4, August 2007, pp. 906-917.",
+            "remark":"(SCI, EI)"
+        },
+        {
+            "author":"Pi-Chung Wang, Chia-Tai Chan, Chun-Liang Lee and Hung-Yi Chang",
+            "topic":"Scalable Packet Classification for Enabling Internet Differentiated Services",
+            "publisher":"IEEE Transactions on Multimedia, Vol. 8, No. 6, December 2006, pp. 1239-1249.",
+            "remark":"(SCIE, EI)"
+        },
+        {
+            "author":"Yuan-Rung Yang, Chia-Tai Chan, and Yaw-Chung Chen",
+            "topic":"Improving Performance of XCP over High Bandwidth-Delay Product Networks",
+            "publisher":"GESTS International Transactions on Computer Science and Engineering, Volume 28, Number 1, Feb. 2006, pp. 133 – 144.",
+            "remark":""
+        },
+        {
+            "author":"Pi-Chung Wang, Chia-Tai Chan, Rong-Chang Chen and Hung-Yi Chang",
+            "topic":"Efficient Entry-Reduction Algorithm for TCAM-based IP Forwarding Engine",
+            "publisher":"IEE Proceedings-Communications Vol. 152, No. 2, April 2005, pp. 172-176.",
+            "remark":"(SCI, EI)"
+        },
+        {
+            "author":"Pi-Chung Wang, Hung-Yi Chang, Chia-Tai Chan, and Shuo-Cheng Hu",
+            "topic":"Scalable Packet Classification Using Condensate Bit Vector",
+            "publisher":"IEICE Transactions on Communications, Vol.E88-B, No. 4, April 2005, pp. 1440-1447.",
+            "remark":"(SCI, EI)"
+        },
+        {
+            "author":"Yaw-Chung Chen, Pi-Chung Wang, Chun-Liang Lee and Chia-Tai Chan",
+            "topic":"Performance Improvement of Hardware-based Packet Classification Algorithm",
+            "publisher":"Lecture Notes in Computer Science (LNCS), VOL. 3421, pp. 728-736, Springer-Verlag, 2005 (IEEE International Conference on Networking (ICN'05), April 2005.).",
+            "remark":"(SCIE, EI) (Corresponding author)"
+        },
+        {
+            "author":"Pi-Chung Wang, Chia-Tai Chan, Rong-Chang Chen and Hung-Yi Chang",
+            "topic":"Hierarchical FLP Model for Broadband Networks",
+            "publisher":"IEEE Communications Letters, Vol. 9, No. 3, March 2005, pp. 282-284.",
+            "remark":"(SCI, EI)"
+        },
+        {
+            "author":"Pi-Chung Wang, Chia-Tai Chan, Shuo-Cheng Hu and Chun-Liang Lee and Wei-Chun Tseng",
+            "topic":"High-Speed Packet Classification for Differentiated Services in Next Generation Networks",
+            "publisher":"IEEE Transactions on Multimedia, Vol. 6, No. 6, December 2004, pp. 925-935.",
+            "remark":"(SCIE, EI)"
+        },
+        {
+            "author":"Yi-Cheng Chan, Chia-Tai Chan, and Yaw-Chung Chen",
+            "topic":"RoVegas: A Router-based Congestion Avoidance Mechanism for TCP Vegas",
+            "publisher":"Computer Communications, Vol. 27, Issue 16, October 2004, pp. 1624-1636.",
+            "remark":"(SCIE, EI)"
+        },
+        {
+            "author":"Shuo-Cheng Hu, Chia-Tai Chan, Hung-Yi Chang and Pi-Chung Wang",
+            "topic":"Efficient IP Forwarding Engine with Incremental Update",
+            "publisher":"Journal of High Speed Networks, Volume 13, Number 3, 2004, pp. 223-232.",
+            "remark":"(SCIE, EI)"
+        },
+        {
+            "author":"Yi-Cheng Chan, Chia-Tai Chan, and Yaw-Chung Chen",
+            "topic":"Performance Improvement of TCP Vegas over Heterogeneous Networks",
+            "publisher":"IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences, Vol.E87-A, No. 7, July 2004, pp. 1672-1680.",
+            "remark":"(SCIE, EI)"
+        },
+        {
+            "author":"Yi-Cheng Chan, Chia-Tai Chan, and Yaw-Chung Chen",
+            "topic":"Design and performance evaluation of an improved TCP congestion avoidance scheme",
+            "publisher":"IEEE Proceedings-Communications Vol. 151, No. 1, February 2004, pp. 107-111.",
+            "remark":"(SCI, EI)"
+        },
+        {
+            "author":"Pi-Chung Wang, Chia-Tai Chan, Shuo-Cheng Hu and Chun-Liang Lee",
+            "topic":"Performance improvement of Packet Classification by Using Lookahead Caching",
+            "publisher":"IEICE Transactions on Communications, Vol.E87-B, No. 2, February 2004, pp. 377-379.",
+            "remark":"(SCI, EI)"
+        },
+        {
+            "author":"Chia-Tai Chan, Pi-Chung Wang, Shuo-Cheng Hu and Chun-Liang Lee",
+            "topic":"Scalable Packet Classification for Ipv6 by Using Limited TCAMs",
+            "publisher":"Lecture Notes in Computer Science (LNCS), VOL. 2662, pp. 76-85, Springer-Verlag, 2003.",
+            "remark":"(SCIE, EI)"
+        },
+        {
+            "author":"Chia-Tai Chan, Pi-Chung Wang, Shuo-Cheng Hu and Chun-Liang Lee",
+            "topic":"Scalable IP Routing Lookup in Next Generation Network",
+            "publisher":"Lecture Notes in Computer Science (LNCS), VOL. 2662, pp. 46-55, Springer-Verlag, 2003.",
+            "remark":"(SCIE, EI)"
+        },
+        {
+            "author":"Chia-Tai Chan, Pi-Chung Wang, Shuo-Cheng Hu, Chun-Liang Lee and Rong-Chang Chen",
+            "topic":"High-Performance IP Forwarding with Efficient Routing-Table Update",
+            "publisher":"Computer Communications, Vol. 26, Issue 14, August 2003, pp. 1681-1692.",
+            "remark":"(SCIE, EI)"
+        },
+        {
+            "author":"Yi-Cheng Chan, Chia-Tai Chan, and Yaw-Chung Chen",
+            "topic":"An Enhanced Congestion Avoidance Mechanism for TCP Vegas",
+            "publisher":"IEEE Communications Letters, Vol. 7, No. 7, July 2003, pp. 343-345.",
+            "remark":"(SCI, EI)"
+        },
+        {
+            "author":"Pi-Chung Wang, Chia-Tai Chan, Wei-Chun Tseng, and Yaw-Chung Chen",
+            "topic":"A Fast Packet Classification by Using Enhanced Tuple Pruning",
+            "publisher":"Lecture Notes in Computer Science (LNCS), VOL. 2334, pp. 180-191, Springer-Verlag, 2002 (Proceedings of IFIP/IEEE Protocol for High-Speed Networks (PfHSN’02), Berlin, Germany, April 2002).",
+            "remark":"(SCIE, EI)"
+        },
+        {
+            "author":"Chia-Tai Chan, Pi-Chung Wang, and Yaw-Chung Chen",
+            "topic":"An Efficient Traffic Control Scheme for TCP over ATM GFR Services",
+            "publisher":"Computer Networks (Former title: Computer Networks and ISDN Systems), Vol. 38, Issue 5, April 2002, pp.645-662.",
+            "remark":"(SCIE, EI)"
+        },
+        {
+            "author":"Pi-Chung Wang, Chia-Tai Chan, and Yaw-Chung Chen",
+            "topic":"A Fast Table Update Scheme for High-Performance IP Forwarding",
+            "publisher":"IEICE Transactions on Communications, Vol.E85-B, No. 1, January 2002, pp. 318-324.",
+            "remark":"(SCI, EI)"
+        },
+        {
+            "author":"Pi-Chung Wang, Chia-Tai Chan, and Yaw-Chung Chen",
+            "topic":"High-Performance IP Routing Table Lookup",
+            "publisher":"Computer Communications, Vol.25 (3) (2002), pp.303-312.",
+            "remark":"(SCIE, EI)"
+        },
+        {
+            "author":"Pi-Chung Wang, Chia-Tai Chan, Chen, Yaw-Chung",
+            "topic":"An efficient IP routing lookup by using routing interval",
+            "publisher":"Journal of Communications and Networks, Vol.3, No. 4, December 2001, pp. 374-382.",
+            "remark":"(SCI)"
+        },
+        {
+            "author":"Pi-Chung Wang, Chia-Tai Chan, and Yaw-Chung Chen",
+            "topic":"Performance Enhancement of IP Forwarding by Reducing Routing Table Construction Time",
+            "publisher":"IEEE Communications Letters, Vol. 5, No 5, May 2001, pp. 230-232.",
+            "remark":"(SCI, EI)"
+        },
+        {
+            "author":"Pi-Chung Wang, Chia-Tai Chan, and Yaw-Chung Chen",
+            "topic":"A Fast IP Routing Lookup Scheme",
+            "publisher":"IEEE Communications Letters, Vol. 5, No. 3, March 2001, pp. 125-127.",
+            "remark":"(SCI, EI)"
+        },
+        {
+            "author":"Pi-Chung Wang, Chia-Tai Chan, and Yaw-Chung Chen",
+            "topic":"An Intelligent Buffer Management Approach for GFR services in IP/ATM Internetworks",
+            "publisher":"Computer Communications Vol.23 (14-15) (2000), pp.1389-1399.",
+            "remark":"(SCIE, EI)"
+        },
+        {
+            "author":"Chia-Tai Chan, Shuo-Cheng Hu, Pi-Chung Wang, and Yaw-Chung Chen",
+            "topic":"A FIFO-based Buffer Management Approach for the ATM GFR Services",
+            "publisher":"IEEE Communications Letters, Vol. 4, No. 6, June 2000, pp. 205-207.",
+            "remark":"(SCI, EI)"
+        },
+        {
+            "author":"Pi-Chung Wang, Chia-Tai Chan, and, Yaw-Chung Chen",
+            "topic":"Design and Analysis of Traffic Control for Guaranteed Services on Internet",
+            "publisher":"Journal of Information Science and Engineering, Vol. 16, No. 3, May 2000, pp. 349-364.",
+            "remark":"(SCIE, EI)"
+        },
+        {
+            "author":"Yaw-Chung Chen, Shuo-Cheng Hu, Chia-Tai Chan, and Pi-Chung Wang",
+            "topic":"Traffic Control through In-Service Monitoring for QOS Guarantee in ATM Networks",
+            "publisher":"IEEE/KICS Journal of Communications and Networks, Vol.1, No.4, December 1999, pp. 286-294.",
+            "remark":"(SCI, EI)"
+        },
+        {
+            "author":"Yaw-Chung Chen, Shuo-Cheng Hu, Chia-Tai Chan, and Chun-Liang Lee",
+            "topic":"Frame-based Priority Scheduling in Hybrid IP/ATM Networks",
+            "publisher":"Computer Communications, Vol.22 (13) (1999), pp.1234-1246.",
+            "remark":"(SCIE, EI)"
+        },
+        {
+            "author":"Jiu-Ru Chen, Yaw-Chung Chen, and Chia-Tai Chan",
+            "topic":"Performance Evaluation of an End-to-End Rate Control for ABR Services",
+            "publisher":"IEICE Transactions on Communications, Vol.E81-B, No. 12, December 1998, pp. 2400-2412.",
+            "remark":"(SCI, EI)"
+        },
+        {
+            "author":"Yaw-Chung Chen, Chia-Tai Chan, Shuo-Cheng Hu and Pi-Chung Wang",
+            "topic":"Traffic Control Approaches for Voice over ATM Networks",
+            "publisher":"IEICE Transactions on Communications, Vol.E81-B, No. 12, December 1998, pp. 2380-2391.",
+            "remark":"(SCI, EI)"
+        },
+        {
+            "author":"Yaw-Chung Chen, Chia-Tai Chan and Shuo-Cheng Hu",
+            "topic":"Design and Analysis of Delay Control for CBR Services in ATM Networks",
+            "publisher":"Computer Communications, Vol.21 (5) (1998), pp.445-459.",
+            "remark":"(SCIE, EI)"
+        },
+        {
+            "author":"Yaw-Chung Chen, Chia-Tai Chan and Shuo-Cheng Hu",
+            "topic":"On the Effective Traffic Control of ABR Services in ATM Networks",
+            "publisher":"IEICE Transactions on Communications, Vol.E81-B, No. 2, February 1998, pp. 417-430.",
+            "remark":"(SCI, EI)"
+        }
+    ],
+    "book":[
+        {
+            "author":"De-Fong Juan, Mei-Yung Tsou, I-Ting Kuo, Feng-Hsiang Ting, Kuang-Yi Chang, Steen J. Hsu, Chia-Tai Chan",
+            "topic":"The Development of a Real-time Patient Reporting System of Drug Reactions for Improving Patient-Controlled Analgesia Medical Service Quality",
+            "publisher":"Biomedical Engineering and Environmental Engineering WIT Transactions on the Built Environment, Vol. 145, pp. 139-146. (EI)",
+            "remark":"(Corresponding author)"
+        },
+        {
+            "author":"Kai-Chun Liu, Chung-Tse Liu, Chao-Wei Chen, Chih-Ching Lin, Chia-Tai Chan",
+            "topic":"Accelerometry-Based Motion Pattern Analysis for Physical Activity Recognition and Activity Level Assessment",
+            "publisher":"Accepted by Applied Mechanics and Materials 2013. (EI)",
+            "remark":"(Corresponding author)"
+        },
+        {
+            "author":"Chung-Tse Liu, Steen J. Hsu, Chia-Tai Chan",
+            "topic":"Activity Recognition and Activity Level Estimation for Context-Based Prompting System of Mild Cognitive Impairment Patients",
+            "publisher":"Lecture Notes in Computer Science 9710, 2013, pp.53-60.",
+            "remark":"(Corresponding author)"
+        },
+        {
+            "author":"Po-Chao Chen, Chih-Ning Huang, I-Chun Chen, Chia-Tai Chan",
+            "topic":"A Rehabilitation Exercise Assessment System Based on Wearable Sensors for Knee Osteoarthritis",
+            "publisher":"Lecture Notes in Computer Science 9710, 2013, pp.267-272.",
+            "remark":"(Corresponding author)"
+        },
+        {
+            "author":"Steen J. Hsu, Kun-Hui Chen, Chih-Ning Huang, Chih-Yen Chiang, Chia-Tai Chan",
+            "topic":"MID-based Instant Transmission of Radiological images for Emergency Teleconsultation",
+            "publisher":"Applied Mechanics and Materials, Vol.284-287, 2013, pp.1698-1703. (EI)",
+            "remark":"(Corresponding author)"
+        },
+        {
+            "author":"Chih-Ning Huang, Chia-Tai Chan",
+            "topic":"ZigBee-based indoor location system by k-nearest neighbor algorithm with weighted RSSI",
+            "publisher":"Procedia Computer Science 5 (2011) 58–65.",
+            "remark":"(Corresponding author)"
+        },
+        {
+            "author":"Ya-Xuan Hung, Chih-Yen Chiang, Steen J. Hsu, Chia-Tai Chan",
+            "topic":"Abnormality Detection for Improving Elder’s Daily Life Independent",
+            "publisher":"Lecture Notes in Computer Science 6159, 2010, pp.186-194.",
+            "remark":"(Corresponding author)"
+        },
+        {
+            "author":"Guan-Chun Chen, Chih-Ning Huang, Chih-Yen Chiang, Chia-Juei Hsieh, Chia-Tai Chan",
+            "topic":"A Reliable Fall Detection System Based on Wearable Sensor and Signal Magnitude Area for Elderly Residents",
+            "publisher":"Lecture Notes in Computer Science 6159, 2010, pp.267-270.",
+            "remark":"(Corresponding author)"
+        },
+        {
+            "author":"Kung-Ta Huang, Po-Yen Lin, Chih-Yen Chiang, Jui-Sheng Chang, Chih-Ning Huang and Chia-Tai Chan",
+            "topic":"An Intelligent RFID System for Improving Elderly Daily Life Independent in Indoor Environment",
+            "publisher":"Lecture Notes in Computer Science 5120, 2008, pp.1-8.",
+            "remark":"(Corresponding author)"
+        }
+    ],
+    "conference":[
+        {
+            "author":"Li-Tzu Chiu, Chia-Yeh Hsieh, Hsiang-Yun Huang, Kai-Chun Liu, Wei-Lun Chen, Steen J. Hsu, Chia-Tai Chan",
+            "topic":"Wearable-based Fluid Intake Assessment System Based on Micro-activity Recognition and Fill Level Estimation",
+            "publisher":"2020 IEEE International Conference on Applied System Invention (ICASI 2020), Taitung, Taiwan, 5-8, Nov., 2020.",
+            "remark":""
+        },
+        {
+            "author":"Wei-Lun Chen, Chia-Yeh Hsieh, Hsiang-Yun Huang, Kai-Chun Liu, Li-Tzu Chiu, Steen J. Hsu, Chia-Tai Chan",
+            "topic":"A Water-regulation-based Simulator for Activities of Daily Living Sequences Generation",
+            "publisher":"2020 IEEE International Conference on Applied System Invention (ICASI 2020), Taitung, Taiwan, 5-8, Nov., 2020.",
+            "remark":""
+        },
+        {
+            "author":"Chun-Chi Liu, Chia-Yeh Hsieh, Hsiang-Yun Huang, Kai-Chun Liu, Steen Jun-Ping Hsu, Chia-Tai Chan",
+            "topic":"Lower Limb Rehabilitation Exercise Identification for Knee Osteoarthritis",
+            "publisher":"2020 IEEE International Conference on Applied System Invention (ICASI 2020), Taitung, Taiwan, 5-8, Nov., 2020.",
+            "remark":""
+        },
+        {
+            "author":"Shun-Sheng Yang, Chia-Yeh Hsieh, Hsiang-Yun Huang, Kai-Chun Liu, Steen J. Hsu and Chia-Tai Chan",
+            "topic":"The Development of Sedentary Behavior Monitoring System with Smartphone and Smartwatch Integration",
+            "publisher":"2019 IEEE Eurasia Conference on Biomedical Engineering, Healthcare and Sustainability (ECBIOS 2019), Okinawa, Japan, 31 May - 3 June, 2019.",
+            "remark":"(Best Conference Paper Award)"
+        },
+        {
+            "author":"Chiao-Yi Lan, Chia-Yeh Hsieh, Hsiang-Yun Huang, Kai-Chun Liu, Steen J. Hsu and Chia-Tai Chan",
+            "topic":"The Design and Development of Fall Detection System Using Smartwatch and Smartphone",
+            "publisher":"2019 IEEE Eurasia Conference on Biomedical Engineering, Healthcare and Sustainability (ECBIOS 2019), Okinawa, Japan, 31 May - 3 June, 2019.",
+            "remark":"(Best Conference Paper Award)"
+        },
+        {
+            "author":"Chia-Yeh Hsieh, Hsiang-Yun Huang, Kai-Chun Liu, Steen J. Hsu and Chia-Tai Chan",
+            "topic":"Automatic Subtask Segmentation Approach of the Time Up and Go Test for Mobility Assessment System Using Wearable Sensors",
+            "publisher":"2019 IEEE-EMBS International Conference on Biomedical and Health Informatics (BHI 2019), Chicago, USA, 19-22, May, 2019.",
+            "remark":""
+        },
+        {
+            "author":"Mei-Chuan Tseng, Kai-Chun Liu, Chia-Yeh Hsieh, Steen J. Hsu and Chia-Tai Chan",
+            "topic":"Gesture spotting algorithm for door opening using single wearable sensor",
+            "publisher":"2018 IEEE International Conference on Applied System Invention (ICASI 2018), Tokyo, Japan, 13-17, April, 2018.",
+            "remark":""
+        },
+        {
+            "author":"Huei-Lin Jiang, Chia-Yeh Hsieh, Kai-Chun Liu, Steen J. Hsu and Chia-Tai Chan",
+            "topic":"Quantitative assessment based on kinematic measures for knee osteoarthritis rehabilitation exercise analysis",
+            "publisher":"2018 IEEE International Conference on Applied System Invention (ICASI 2018), Tokyo, Japan, 13-17, April, 2018.",
+            "remark":""
+        },
+        {
+            "author":"Chia-Yeh Hsieh, Wan-Ting Shi, Hsiang-Yun Huang, Kai-Chun Liu, Steen J. Hsu and Chia-Tai Chan",
+            "topic":"Machine learning-based fall characteristics monitoring system for strategic plan of falls prevention",
+            "publisher":"2018 IEEE International Conference on Applied System Invention (ICASI 2018), Tokyo, Japan, 13-17, April, 2018.",
+            "remark":""
+        },
+        {
+            "author":"Hsiang-Yun Huang, Chia-Yeh Hsieh, Kai-Chun Liu, Hui-Chun Cheng, Steen J. Hsu and Chia-Tai Chan",
+            "topic":"Multimodal sensors data fusion for improving indoor pedestrian localization",
+            "publisher":"2018 IEEE International Conference on Applied System Invention (ICASI 2018), Tokyo, Japan, 13-17, April, 2018.",
+            "remark":""
+        },
+        {
+            "author":"Li-Han Chang, Chia-Yeh Hsieh, Kai-Chun Liu, Chien-Yi Yen, Steen J. Hsu and Chia-Tai Chan",
+            "topic":"Web-based weight loss reminder system for well-being management",
+            "publisher":"2018 IEEE International Conference on Applied System Invention (ICASI 2018), Tokyo, Japan, 13-17, April, 2018.",
+            "remark":""
+        },
+        {
+            "author":"Kai-Chun Liu and Chia-Tai Chan",
+            "topic":"Analyzing Aging Behavior via ADL Monitoring and Assessment",
+            "publisher":"2017生物醫學工程科技研討會暨科技部醫學工程學門成果發表會, Taoyuan, Taiwan, 17-18, November, 2017.",
+            "remark":"(學生論文競賽壁報論文-優勝)"
+        },
+        {
+            "author":"Chien-Yi Yen, Li-Han Chang, Chia-Yeh Hsieh, Kai-Chun Liu and Chia-Tai Chan",
+            "topic":"互動式網頁減重管理系統自我揭露之設計研究",
+            "publisher":"2017生物醫學工程科技研討會暨科技部醫學工程學門成果發表會, 17-18, November, 2017.",
+            "remark":""
+        },
+        {
+            "author":"李國弘, 劉凱鈞, 詹家泰",
+            "topic":"以機器學習為基礎之身體活動量辨識",
+            "publisher":"2017生物醫學工程科技研討會暨科技部醫學工程學門成果發表會, Taoyuan, Taiwan, 17-18, November, 2017.",
+            "remark":""
+        },
+        {
+            "author":"Kai-Chun Liu; Chien-Yi Yen; Li-Han Chang; Chia-Yeh Hsieh; Chia-Tai Chan",
+            "topic":"Wearable Sensor-Based Activity Recognition for Housekeeping Task",
+            "publisher":"2017 IEEE 14th International Conference on Wearable and Implantable Body Sensor Networks (BSN 2017), Eindhoven, The Netherlands, 9-12, May, 2017.",
+            "remark":""
+        },
+        {
+            "author":"Po-Chun Haung; Kai-Chun Liu; Chia-Yeh Hsieh; Chia-Tai Chan",
+            "topic":"Human Motion Identification for Rehabilitation Exercise Assessment of Knee Osteoarthritis",
+            "publisher":"IEEE 2017 International Conference on Applied System Innovation (ICASI 2017), Sapporo, Japan, 13-17, May, 2017.",
+            "remark":"(Best Conference Paper Award)"
+        },
+        {
+            "author":"Hui-Chun Cheng; Kai-Chun Liu; Chia-Yeh Hsieh; Chia-Tai Chan",
+            "topic":"Smartphone-based Pedestrian Localization Algorithm Using Inertial and Light Sensors",
+            "publisher":"IEEE 2017 International Conference on Applied System Innovation (ICASI 2017), Sapporo, Japan, 13-17, May, 2017.",
+            "remark":"(First Prize)"
+        },
+        {
+            "author":"Liu-Hsuan Chen; Kai-Chun Liu; Chia-Yeh Hsieh; Chia-Tai Chan",
+            "topic":"Drinking Gesture Spotting and Identification Using Single Wrist-Worn Inertial Sensor",
+            "publisher":"IEEE 2017 International Conference on Applied System Innovation (ICASI 2017), Sapporo, Japan, 13-17, May, 2017.",
+            "remark":"(Best Conference Paper Award)"
+        },
+        {
+            "author":"Chia-Yeh Hsieh; Chih-Ning Huang; Kai-Chun Liu; Woei-Chyn Chu; Chia-Tai Chan",
+            "topic":"A machine learning approach to fall detection algorithm using wearable sensor",
+            "publisher":"IEEE 2016 International Conference on Applied System Innovation (ICASI 2016), Okinawa, Japan, 28 May- June 1, 2016.",
+            "remark":"(Best Conference Paper Award)"
+        },
+        {
+            "author":"Hsieh-Ping Chen; Hsieh-Chung Chen; Kai-Chun Liu; Chia-Tai Chan",
+            "topic":"Online segmentation with multi-layer SVM for knee osteoarthritis rehabilitation monitoring",
+            "publisher":"2016 IEEE 13th International Conference on Wearable and Implantable Body Sensor Networks (BSN), San Francisco, USA, 14-17, June, 2016.",
+            "remark":""
+        },
+        {
+            "author":"Kun-Hui Chen; Wen-Chi Tseng; Kai-Chun Liu; Chia-Tai Chan",
+            "topic":"Using gyroscopes and accelerometers as a practical rehabilitation monitor system after total knee arthroplasty",
+            "publisher":"2015 IEEE MTT-S 2015 International Microwave Workshop Series on RF and Wireless Technologies for Biomedical and Healthcare Applications (IMWS-BIO 2015), Taipei, Taiwan, 21-23, Sept., 2015.",
+            "remark":""
+        },
+        {
+            "author":"Kai-Chun Liu, Chia-Tai Chan, Steen J. Hsu",
+            "topic":"A confidence-based approach to hand movements recognition for cleaning tasks using dynamic time warping",
+            "publisher":"2015 IEEE 12th International Conference on Wearable and Implantable Body Sensor Networks (BSN 2015), Cambridge, MA, USA, 9-12, June 2015.",
+            "remark":""
+        },
+        {
+            "author":"Chung-Tse Liu, Steen J. Hsu, Chia-Tai Chan",
+            "topic":"Context-Aware Prompting System for Improving Physical Activity",
+            "publisher":"IEEE International Symposium on Computer, Consumer and Control, Taichung, Taiwan, June 10-12, 2014.",
+            "remark":""
+        },
+        {
+            "author":"Chung-Tse Liu, Kai-Chun Liu, Yi-Chieh Chou, Chih-Ning Huang, Chia-Tai Chan",
+            "topic":"A Tracking-Assistant Algorithm for Assisting Living",
+            "publisher":"Accepted by International Conference on e-Commerce, e-Administration, e-Society, e-Education, and e-Technology, Nagoya University, JAPAN, April 2-4, 2014.",
+            "remark":""
+        },
+        {
+            "author":"Kai-Chun Liu, Chih-Ning Huang, Chung-Tse Liu, Steen J. Hsu and Chia-Tai Chan",
+            "topic":"Activity Recognition Based on Compound Gesture Classification for Ambient Assisted Living",
+            "publisher":"International Conference on e-Commerce, e-Administration, e-Society, e-Education, and e-Technology, Nagoya University, JAPAN, April 2-4, 2014.",
+            "remark":"(Distinguished Paper Award)"
+        },
+        {
+            "author":"De-Fong Juan, Mei-Yung Tsou, I-Ting Kuo, Feng-Hsiang Ting, Kuang-Yi Chang, Steen J. Hsu, Chia-Tai Chan",
+            "topic":"The Development of a Real-time Patient Reporting System of Drug Reactions for Improving Patient-Controlled Analgesia Medical Service Quality",
+            "publisher":"International Conference on Biomedical Engineering and Environmental Engineering (ICBEEE 2013) ,Singapore, December 1-2,2013, p-4.",
+            "remark":""
+        },
+        {
+            "author":"Wen-Chi Tseng, Kun-Hui Chen, Chung-Tse Liu and Chia-Tai Chan",
+            "topic":"The Study of Gait Analysis System for Total Knee Replacement Perioperative Period",
+            "publisher":"International Symposium on Biomedical Engineering, Hsinchu, Taiwan, Nov. 15-16 2013, PB2-49.",
+            "remark":""
+        },
+        {
+            "author":"Kai-Chun Liu, I-Ting Kuo, Steen J. Hsu and Chia-Tai Chan",
+            "topic":"Activity Recognition Based on Compound Gesture Classification for Ambient Assisted Living",
+            "publisher":"International Symposium on Biomedical Engineering, Hsinchu, Taiwan, Nov. 15-16 2013., PB2-50.",
+            "remark":""
+        },
+        {
+            "author":"Feng-Hsiang Ting, I-Ting Kuo, Kai-Chun Liu, De-Fong Juan, Mei-Yung Tsou, Steen J. Hsu and Chia-Tai Chan",
+            "topic":"Patient Reporting System of Drug Reactions for Patient-Controlled Analgesia Service",
+            "publisher":"International Symposium on Biomedical Engineering, Hsinchu, Taiwan, Nov. 15-16 2013., PA3-41.",
+            "remark":"(學生壁報發表競賽-特優)"
+        },
+        {
+            "author":"Chih-Yen Chiang, Kai-Chun Liu, , Steen J. Hsu and Chia-Tai Chan",
+            "topic":"Compound Gesture Classification for Context-aware Healthcare Monitoring System",
+            "publisher":"Accepted by 2nd International Conference on Biomedical Engineering and Biotechnology (iCBEB 2013), Wuhan, China, on October 11-13, 2013.",
+            "remark":""
+        },
+        {
+            "author":"Chih-Yen Chiang, Steen J. Hsu and Chia-Tai Chan",
+            "topic":"A Resident’s Behavior Simulation Model for Nursing Home Healthcare Services",
+            "publisher":"Accepted by 2nd International Conference on Biomedical Engineering and Biotechnology (iCBEB 2013), Wuhan, China, on October 11-13, 2013.",
+            "remark":""
+        },
+        {
+            "author":"Kai-Chun Liu, Chung-Tse Liu, Chao-Wei Chen, Chih-Ching Lin, Chia-Tai Chan",
+            "topic":"Accelerometry-Based Motion Pattern Analysis for Physical Activity Recognition and Activity Level Assessment",
+            "publisher":"Accepted by International Applied Science and Precision Engineering Conference, Nantou Taiwan, Oct. 18-22 2013.",
+            "remark":""
+        },
+        {
+            "author":"I-Ting Kuo, Kuang-Yi Chang, Mei-Yung Tsou, De-Fong Juan, Steen J. Hsu, Chia-Tai Chan",
+            "topic":"The Study of Clinical Effectiveness Index Establishment of Patient-controlled Analgesia",
+            "publisher":"2013 Anesthesia Milestone, Kaohsiung, Taiwan, Sep 28-29, 2013. (B51)",
+            "remark":""
+        },
+        {
+            "author":"De-Fong Juan, I-Ting Kuo, Feng-Hsiang Ting, Kuang-Yi Chang, Mei-Yung Tsou, Steen J. Hsu, Chia-Tai Chan",
+            "topic":"The Development of a Real-time Patient Reporting System of Drug Reactions for Improving PCA Medical Service Quality",
+            "publisher":"2013 Anesthesia Milestone, Kaohsiung, Taiwan, Sep 28-29, 2013. (B50)",
+            "remark":"(優秀海報論文獎-第三名)"
+        },
+        {
+            "author":"Chung-Tse Liu, Steen J. Hsu, Chia-Tai Chan",
+            "topic":"Activity Recognition and Activity Level Estimation for Context-Based Prompting System of Mild Cognitive Impairment Patients",
+            "publisher":"11th International Conference on Smart Homes and Health Telematics (ICOST), Singapore, 18-21 June, 2013, pp.20.",
+            "remark":""
+        },
+        {
+            "author":"Po-Chao Chen, Chih-Ning Huang, I-Chun Chen, Chia-Tai Chan",
+            "topic":"A Rehabilitation Exercise Assessment System Based on Wearable Sensors for Knee Osteoarthritis",
+            "publisher":"11th International Conference on Smart Homes and Health Telematics (ICOST), Singapore, 18-21 June, 2013, pp.31.",
+            "remark":""
+        },
+        {
+            "author":"Chih-Yen Chiang, Chih-Ning Huang, Steen J. Hsu, Chia-Tai Chan",
+            "topic":"Behavior Assessment for the Elderly Living Alone Based on Fuzzy Logic Approach",
+            "publisher":"Accepted by International Conference on Wireless Networks and Information Systems (ICWNIS 2013), Taipei, Taiwan, January 15-16, 2013.",
+            "remark":""
+        },
+        {
+            "author":"J. W. Chen, C.T. Liu, S.J. Hsu, Chia-Tai Chan",
+            "topic":"Design of Physical Activity Recognition System Using Wearable Sensor",
+            "publisher":"International Symposium on Biomedical Engineering, Chung Li, Taiwan, Nov. 17-18 2012., p1-45.",
+            "remark":"(學生壁報發表競賽-優等)"
+        },
+        {
+            "author":"Po-Chau Chen, Chia-Wei Tseng, Chih-Ning Huang, Chia-Tai Chan",
+            "topic":"Development of Assessment System for Knee Osteoarthritis’ Rehabilitation Exercise",
+            "publisher":"International Symposium on Biomedical Engineering, Chung Li, Taiwan, Nov. 17-18 2012., p1-49.",
+            "remark":"(學生壁報發表競賽-優等)"
+        },
+        {
+            "author":"Steen J. Hsu, Kun-Hui Chen, Chih-Ning Huang, Chih-Yen Chiang, Chia-Tai Chan",
+            "topic":"MID-based Instant Transmission of Radiological images for Emergency Teleconsultation",
+            "publisher":"International Conference on Engineering and Technology Innovation, Kaohsiung Taiwan, Nov. 02-06 2012.",
+            "remark":""
+        },
+        {
+            "author":"I-Ting Kuo, Kuang-Yi Chang, Mei-Yung Tsou, De-Fong Juan, Steen J. Hsu, Chia-Tai Chan",
+            "topic":"Fuzzy Logic Algorithm for Quantifying Clinical Effectiveness of Genitourinary Patient-Controlled Analgesia Services",
+            "publisher":"International Conference on Advances in Materials Science and Engineering (AMSE 2012), Bangkok, Thailand, September 27-28, 2012.",
+            "remark":""
+        },
+        {
+            "author":"Ya-Xuan Hong , Kuan-Ta Chen, Yeng-Ting Lee, Steen J.Hsu, Chia-Tai Chan",
+            "topic":"An Adaptive Motion-Command Matching System for Game-Based Rehabilitation",
+            "publisher":"The 6th International Conference on Bioinformatics and Biomedical Engineering (iCBBE'12), Shanghai, China, May 17-20, 2012.",
+            "remark":""
+        },
+        {
+            "author":"Chih-Yen Chiang, I-Ting Kuo, Mei-Yung Tsou, Kuang-Yi Chang, Steen J.Hsu, Chia-Tai Chan",
+            "topic":"MID-based Electronic Data Collection and Adaptive Drug Delivery Model for Improving Quality of PCA Services",
+            "publisher":"accepted by IEEE-EMBS International Conference on Biomedical and Health Informatics, Hong Kong, Shenzhen 5-7 Jan. 2012.",
+            "remark":""
+        },
+        {
+            "author":"Chih-Ning Huang, Chih-Yen Chiang, Chun-Bin Chiu, Steen J. Hsu, Chia-Tai Chan",
+            "topic":"Accelerometry-based Motion Pattern Analysis for Reliable Fall Detection",
+            "publisher":"International Conference on Engineering and Technology Innovation, Kenting Taiwan, Nov. 11-15 2011, pp.113.",
+            "remark":""
+        },
+        {
+            "author":"Chih-Yen Chiang, Chih-Ning Huang, Steen J. Hsu and Chia-Tai Chan",
+            "topic":"Autonomous Activity Awareness for Ubiquitous Healthcare to Elderly People",
+            "publisher":"International Conference on Engineering and Technology Innovation, Kenting Taiwan, Nov. 11-15 2011, pp.230.",
+            "remark":""
+        },
+        {
+            "author":"I-Ting Kuo, Kuang-Yi Chang, Chih-Yen Chiang, Chia-Tai Chan, Mei-Yung Tsou",
+            "topic":"The Analysis of D/D Ratio for Patient-Controlled Analgesia Clinical Effectiveness",
+            "publisher":"55th Annual Meetig of Taiwan Society of Anesthesiologists, Taipei, 2011, Oct 1-2, C32, pp. 163",
+            "remark":""
+        },
+        {
+            "author":"Chih-Ning Huang, Chia-Tai Chan",
+            "topic":"ZigBee-based indoor location system by k-nearest neighbor algorithm with weighted RSSI",
+            "publisher":"The 2nd International Conference on Ambient Systems, Networks and Technologies, Niagara Falls, Ontario, Canada, September, 2011.",
+            "remark":""
+        },
+        {
+            "author":"Chia-Juei Hsieh, Chih-Ning Huang, Chih-Yen Chiang, Steen J.Hsu, Chia-Tai Chan",
+            "topic":"Development of Fall Characteristics Collection System for Fall Prevention Strategies",
+            "publisher":"The 5th International Conference on Bioinformatics and Biomedical Engineering (iCBBE'11), Wuhan, China, May 10-12, 2011.",
+            "remark":""
+        },
+        {
+            "author":"Chih-Yen Chiang, Yu-Chieh Lee, Chia-Juei Hsieh, Steen J.Hsu, Chia-Tai Chan",
+            "topic":"Quantification of Home Rehabilitation Exercise for the Elder’s Physical Fitness Monitoring",
+            "publisher":"The 5th International Conference on Bioinformatics and Biomedical Engineering(iCBBE'11), Wuhan, China, May 10-12, 2011.",
+            "remark":""
+        },
+        {
+            "author":"I-Ting Kuo, K.-Y.C., Mei-Yung Tsou, Steen J. Hsu, Chia-Tai Chan",
+            "topic":"Design of Adaptive Delivery Drug Model for Patient-Controlled Analgesia",
+            "publisher":"The 26th Board of Taiwan Society of Anesthesiologist, Taipei. 2010, C52 pp. 190.",
+            "remark":""
+        },
+        {
+            "author":"I-Ting Kuo, K.-Y.C., Mei-Yung Tsou, Steen J. Hsu, Chia-Tai Chan",
+            "topic":"MID-Based  Electronic  Data  Collection  System to  Support  Patient-Controlled  Analgesia",
+            "publisher":"The 26th Board of Taiwan Society of Anesthesiologist, Taipei. 2010, C53 pp. 190.",
+            "remark":""
+        },
+        {
+            "author":"J.B. Chiu, Chih-Ning Huang, Chia-Tai Chan",
+            "topic":"An Improvement of Wrist Watch Fall Detection Algorithm",
+            "publisher":"International Symposium on Biomedical Engineering, Kaohsiung, 2010, pp.64.",
+            "remark":""
+        },
+        {
+            "author":"W.C. Weng, K.H. Chen, Chia-Tai Chann",
+            "topic":"Development of Rehabilitation Training Recorder for Total Knee Replacement",
+            "publisher":"International Symposium on Biomedical Engineering, Kaohsiung, 2010, pp.102.",
+            "remark":""
+        },
+        {
+            "author":"Chia-Juei Hsieh, Chih-Ning Huang, Guan-Chun Chen, Chia-Tai Cha",
+            "topic":"Development of Electronic Data Collection System for Fall Characteristics",
+            "publisher":"International Symposium on Biomedical Engineering, Kaohsiung, 2010, pp.62.",
+            "remark":"(學生口頭發表競賽-優等)"
+        },
+        {
+            "author":"Yu-Chieh Lee, Chih-Yen Chiang, Chia-Tai Chan",
+            "topic":"Evaluation of Domestic Rehabilitation Exercise Capacity for COPD Patients",
+            "publisher":"International Symposium on Biomedical Engineering, Kaohsiung, 2010, pp.80.",
+            "remark":""
+        },
+        {
+            "author":"Chih-Yen Chiang, Hung-Chun Chen, Kuang-Yi Chang, Mei-Yung Tsou, I-Ting Kuo, Chia-Tai Chan",
+            "topic":"Rule-Based Evaluation for the Patient-Controlled Analgesia Clinical Effectiveness",
+            "publisher":"21th European Society for Computing and Technology in Anaesthesia and Intensive Care (ESCTAIC), Amsterdam, October, 2010, pp.24-26.",
+            "remark":""
+        },
+        {
+            "author":"Ya-Xuan Hung, Chih-Yen Chiang, Steen J. Hsu, Chia-Tai Chan",
+            "topic":"Abnormality Detection for Improving Elder’s Daily Life Independent",
+            "publisher":"8th International Conference on Smart Homes and Health Telematics (ICOST 2010), Seoul, June, 2010, pp.206.",
+            "remark":""
+        },
+        {
+            "author":"Guan-Chun Chen, Chih-Ning Huang, Chih-Yen Chiang, Chia-Juei Hsieh, Chia-Tai Chan",
+            "topic":"A Reliable Fall Detection System Based on Wearable Sensor and Signal Magnitude Area for Elderly Residents",
+            "publisher":"8th International Conference on Smart Homes and Health Telematics(ICOST 2010), Seoul, June, 2010, pp.216.",
+            "remark":""
+        },
+        {
+            "author":"Hsu, S.J.; Chuan-Feng Chiu; Sen-Ren Jan; Chia-Tai Chann",
+            "topic":"Distortion-free multiple images sharing scheme with universal share",
+            "publisher":"2009 Joint Conferences on Pervasive Computing (JCPC), December, 2009, pp. 833 – 838.",
+            "remark":""
+        },
+        {
+            "author":"Guan-Chun Chen, Chih-Ning Huang, Jui-Sheng Chang, Chia-Tai Chan",
+            "topic":"The Study of Location-Aware Fall Detection System",
+            "publisher":"International Symposium on Biomedical Engineering, Taipei, 2009, pp.6.",
+            "remark":"(學生口頭發表競賽-佳作)"
+        },
+        {
+            "author":"P.H. Liau, W.R. Huang, Y.T. Chen, C.Y. Yen, T.H. Lin, Y.J. Tseng, C.H. Hsiao, Y.S. Gu, C.C. Sun, C.M. Huang, T.Y. Huang, Chia-Tai Chan, H.W. Chiu, W.C. Chu",
+            "topic":"Improving Patient Safety Through E-Medication Process Re-Engineering",
+            "publisher":"International Symposium on Biomedical Engineering, 2009, pp.47.",
+            "remark":""
+        },
+        {
+            "author":"I-Ting Kuo, Kuang-Yi Chang , Mei-Yung Tsou, Steen J. Hsu, Chia-Tai Chanu",
+            "topic":"Design and Implementation of Patient-Controlled Analgesia Dosage Information Generatior",
+            "publisher":"International Symposium on Biomedical Engineering, Taipei, 2009, pp.83.",
+            "remark":""
+        },
+        {
+            "author":"Yi-Chieh Chou, Chih-Ning Huang, Chih-Yen Chiang, Chia-Tai Chan",
+            "topic":"THE STUDY OF TRACKING-ASSISTANT POSITIONING ALGORITHM FOR IMPROVING ZIGBEE INDOOR LOCATION SYSTEM",
+            "publisher":"International Symposium on Biomedical Engineering, 2009, pp.172.",
+            "remark":""
+        },
+        {
+            "author":"Hung-Chun Chen, I-Ting Kuo, Mei-Yung Tsou, Kuang-Yi Chang, Chia-Tai Chan",
+            "topic":"ELECTRONIC DATA COLLECTION TO SUPPORT PATIENT-CENTERED ANALGESIA",
+            "publisher":"International Symposium on Biomedical Engineering, 2009, pp.194.",
+            "remark":""
+        },
+        {
+            "author":"Chih-Yen Chiang, Y.H. SHIH, C.Y. Lien, Chia-Hung Hsiao, Woei-Chyn Chu, Chia-Tai Chan",
+            "topic":"DESIGN AND IMPLEMENTATION OF E-NURSING INFORMATION INFRASTRUCTURE",
+            "publisher":"International Symposium on Biomedical Engineering, 2009, pp.195.",
+            "remark":""
+        },
+        {
+            "author":"Chih-Ning Huang, Chih-Yen Chiang, Jui-Sheng Chang, Yi-Chieh Chou, Ya-Xuan Hong, Chia-Tai Chan",
+            "topic":"Location-Aware Fall Detection System for Medical Care Quality Improvement",
+            "publisher":"3rd International Conference on Multimedia and Ubiquitous Engineering (MUE), Qingdao, China, June, 2009,pp.477-480.",
+            "remark":""
+        },
+        {
+            "author":"Hung-Yi Chang, Huan-Duen Deng, Pi-Chung Wang, and Chia-Tai Chan",
+            "topic":"An Adaptive Algorithm for Dynamic Routing in WDM Networks Using Congestion Threshold",
+            "publisher":"Proceedings of the 2009 IEEE International Conference on Networking, Sensing and Control, Okayama, Japan, March, 2009, pp.77-80.",
+            "remark":""
+        },
+        {
+            "author":"江至彥，黃致寧，朱唯勤，詹家泰",
+            "topic":"位置感知病患照護通訊服務應用於提升醫療品",
+            "publisher":"生物醫學工程年會暨科技研討會, Taoyuan, Dec 2008.",
+            "remark":""
+        },
+        {
+            "author":"Kung-Ta Huang, Po-Yen Lin, Chih-Yen Chiang, Jui-Sheng Chang, Chih-Ning Huang and Chia-Tai Chan",
+            "topic":"An Intelligent RFID System for Improving Elderly Daily Life Independent in Indoor Environment",
+            "publisher":"International Conference On Smart homes and health Telematics, (ICOST’08), IOWA, USA, June 2008.",
+            "remark":""
+        },
+        {
+            "author":"Chih-Yen Chiang, Po-Yen Lin, Chih-Ning Huang, Yi-Chieh Chou and Chia-Tai Chan",
+            "topic":"Pervasive Communications for Care professionals in Hospitals",
+            "publisher":"IEEE International Conference on Bioinformatics and Biomedical Engineering (ICBBE’08), Shanghai, China, May 2008, pp.1351–1354.",
+            "remark":""
+        },
+        {
+            "author":"Yu-Chia Hsu, Po-Yen Lin, Steen J.Hsu and Chia-Tai Chan",
+            "topic":"Design and Implementation of Teleconsultation System for Instant Treatment",
+            "publisher":"IEEE International Conference on Bioinformatics and Biomedical Engineering (ICBBE’08), Shanghai, China, May 2008, pp.1355-1358.",
+            "remark":""
+        },
+        {
+            "author":"Chia-Chi Wang, Chih-Yen Chiang, Po-Yen Lin, Yi-Chieh Chou, I-Ting Kuo, Chih-Ning Huang and Chia-Tai Chan",
+            "topic":"Development of a Fall Detecting System for the Elderly Residents",
+            "publisher":"IEEE International Conference on Bioinformatics and Biomedical Engineering (ICBBE’08), Shanghai, China, May 2008, pp.1359-1362.",
+            "remark":""
+        },
+        {
+            "author":"Po-Yen Lin, Chih-Ning Huang, Chia-Tai Chan and Yuan-Rung Yang",
+            "topic":"Location- awareness Communications System for Improving Medical Service Quality",
+            "publisher":"IEEE International Conference on Advanced Communication Technology (ICACT’08), Phoenix Park, Korea, Feb. 2008, pp. 682-686.",
+            "remark":""
+        },
+        {
+            "author":"Hung-Yi Chang, Pi-Chung Wang, Chia-Tai Chan and Chun-Liang Lee",
+            "topic":"A New Service Level Agreement Model for Best-Effort Traffics in IP over WDM",
+            "publisher":"22nd International Conference on Advanced Information Networking and Applications Workshops, Okinawa, Japan, March 2008, pp.1440-1443.",
+            "remark":""
+        },
+        {
+            "author":"Po-Yen Lin, Chie-Yen Chiang, Yu-Chia Hsu, Chia-Hung Hisao, Woei-Chyn Chu, Chia-Tai Chan and Pi-Chung Wang",
+            "topic":"Deploying Intelligent VoWLAN Services for Patient Care Improvement",
+            "publisher":"International Conference on Bioinformatics and Biomedical Engineering (IEEE ICBBE’07), Wuhan, China, July 2007, pp. 1165-1168.",
+            "remark":""
+        },
+        {
+            "author":"Pi-Chung Wang, Chia-Tai Chan and Po-Yen Lin",
+            "topic":"MAC Address Translation for Enabling Scalable Virtual Private LAN Services",
+            "publisher":"IEEE International Conference on Advanced Information Networking and Applications (AINA’07), Niagara Falls, Canada, May 2007, pp.870-875.",
+            "remark":""
+        },
+        {
+            "author":"Shuo-Cheng Hu and Chia-Tai Chan",
+            "topic":"HPC2S: An Intelligent VoWLAN Services for Patient Care Improvement",
+            "publisher":"International Symposium on Healthcare Information Management, Taiwan, March 2007, pp. 114.",
+            "remark":""
+        },
+        {
+            "author":"Yi-Cheng Chan, Chia-Tai Chan, Cheng-Yuan Ho, and Chia-Liang Lin",
+            "topic":"Improving Performance of TCP Vegas for High Bandwidth-Delay Product Networks",
+            "publisher":"8th International Conference on Advanced Communication Technology (ICACT’06), Phoenix Park, Korea, February 2006, pp. 459-464.",
+            "remark":""
+        },
+        {
+            "author":"Yuan-Rung Yang, Chia-Tai Chan, Yaw-Chung Chen, and Yi-Cheng Chan",
+            "topic":"Smart Window-adjustment for XCP's Congestion Management",
+            "publisher":"8th International Conference on Advanced Communication Technology (ICACT’06), Phoenix Park, Korea, February 2006, pp. 476-479.",
+            "remark":""
+        },
+        {
+            "author":"Pi-Chung Wang, Chun-Liang Lee, Chia-Tai Chan and Hung-Yi Chang",
+            "topic":"Hardware-based Packet Classification Made Fast and Efficient",
+            "publisher":"IEEE International Conference on Parallel and Distributed Systems (ICPADS’05), Vol. 1, July 2005, Japan, pp. 47-51.",
+            "remark":"(EI)"
+        },
+        {
+            "author":"Chun-Liang Lee, Shuo-Cheng Hu, Pi-Chung Wang, and Chia-Tai Chan",
+            "topic":"Efficient packet classification using spatial cutting",
+            "publisher":"IEEE High Performance Switching and Routing (HPSR’05), May 2005, pp.108-112.",
+            "remark":""
+        },
+        {
+            "author":"Y. R. Yang, C. T. Chan, P. C. Wang, and Y. C. Chen",
+            "topic":"Performance Enhancement of XCP for High Bandwidth-Delay Product Networks",
+            "publisher":"7th International Conference on Advanced Communication Technology (ICACT’05), February 2005, pp. 456 - 461.",
+            "remark":""
+        },
+        {
+            "author":"Hung-Yi Chang, Chia-Tai Chan, Pi-Chung Wang and Chun-Liang Lee",
+            "topic":"A Scalable Hardware Solution for Packet Classification",
+            "publisher":"IEEE International Conference on Communication Systems (ICCS’04), September 2004, pp. 542-546.",
+            "remark":""
+        },
+        {
+            "author":"Yi-Cheng Chan, Chia-Tai Chan, Yaw-Chung Chen and Cheng-Yuan Ho",
+            "topic":"Performance Improvement of Congestion Avoidance Mechanism for TCP Vegas",
+            "publisher":"IEEE International Conference on Parallel and Distributed Systems (ICPADS’04), July 2004, pp. 605-612.",
+            "remark":"(EI)"
+        },
+        {
+            "author":"Chun-Liang Lee, Pi-Chung Wang, Chia-Tai Chan, and Hung-Yi Chang",
+            "topic":"Improving Packet Classification for Multimedia Applications in DiffServ Architecture",
+            "publisher":"IEEE International Conference on Multimedia and Expo (ICME’04), June 2004, pp.1855-1858.",
+            "remark":""
+        },
+        {
+            "author":"Yi-Cheng Chan, Chia-Tai Chan, and Yaw-Chung Chen",
+            "topic":"Performance Improvement of TCP Vegas over Heterogeneous Networks",
+            "publisher":"24nd IEEE International Conference on Distributed Computing Systems Workshops (ICDCS MNSA’04), March 2004, pp. 36-41.",
+            "remark":"(EI)"
+        },
+        {
+            "author":"Rong-Chang Chen, Chia-Tai Chan, Pi-Chung Wang, Tung-Shou Chen and Hung-Yi Chang",
+            "topic":"Reducing Computation for Vector Quantization by Using Bit-mapped Look-up Table",
+            "publisher":"IEEE International Conference on Networking, Sensing, and Control (ICNSC’04), Vol. 2, March 2004, pp. 1229-1234.",
+            "remark":""
+        },
+        {
+            "author":"Zu-Beng Sun, Pi-Chung Wang, Chia-Tai Chan and Chun-Liang Lee",
+            "topic":"Fast Hierarchical FLP Model for VoD Server Deployment",
+            "publisher":"6th International Conference on Advanced Communication Technology (ICACT’04) , Vol. 2, February 2004, pp. 883-887.",
+            "remark":""
+        },
+        {
+            "author":"Hung-Yi Chang, Zu-Beng Sun, Pi-Chung Wang, Chia-Tai Chan and Rong-Chang Chen",
+            "topic":"Broadband Access Networks Planning through Hierarchical FLP",
+            "publisher":"International Conference on Informatics, Cybernetics, and Systems (ICICS’03), December 2003, pp. 1665-1670.",
+            "remark":""
+        },
+        {
+            "author":"Hung-Yi Chang, Pi-Chung Wang, Chun-Liang Lee and Chia-Tai Chan",
+            "topic":"Improving Packet Classification by Projected Tuple Pruning",
+            "publisher":"International Conference on Informatics, Cybernetics, and Systems (ICICS’03), December 2003, pp. 1653-1658.",
+            "remark":""
+        },
+        {
+            "author":"Hung-Yi Chang, Pi-Chung Wang, Chia-Tai Chan and Tung-Shou Chen",
+            "topic":"Fast Vector Quantization by Using Grated Look-up Table",
+            "publisher":"International Conference on Informatics, Cybernetics, and Systems (ICICS’03), December 2003, pp. 1982-1987.",
+            "remark":""
+        },
+        {
+            "author":"王丕中, 陳俊宏, 詹家泰, 林峻吉",
+            "topic":"寬頻設備最佳設置點演算法之研究",
+            "publisher":"92年度電信科技討論會, Taipei, May 2003.",
+            "remark":""
+        },
+        {
+            "author":"Chia-Tai Chan, Pi-Chung Wang, Shuo-Cheng Hu and Chun-Liang Lee",
+            "topic":"Scalable Packet Classification for Ipv6 by Using Limited TCAMs",
+            "publisher":"International Conference on Information Networking (ICOIN’03), Jeju Island, Korea, February 2003, pp. 511-521.",
+            "remark":""
+        },
+        {
+            "author":"Chia-Tai Chan, Pi-Chung Wang, Shuo-Cheng Hu and Chun-Liang Lee",
+            "topic":"Scalable IP Routing Lookup in Next Generation Network",
+            "publisher":"International Conference on Information Networking (ICOIN’03), Jeju Island, Korea, February 2003, pp. 329-338.",
+            "remark":""
+        },
+        {
+            "author":"Pi-Chung Wang, Chia-Tai Chan, Wei-Chun Tseng and Yaw-Chung Chen",
+            "topic":"Optimal Tuple for Fast Two-Dimension Packet Classification",
+            "publisher":"International Computer symposium (ICS’02), December 2002, B2-A-1~B2-A-7.",
+            "remark":""
+        },
+        {
+            "author":"Pi-Chung Wang, Chia-Tai Chan, Shuo-Cheng Hu, Yu-Chen Shin and Yaw-Chung Chen",
+            "topic":"Hardware-based IP Routing Lookup with Incremental Update",
+            "publisher":"IEEE International Conference on Parallel and Distributed Systems (ICPADS’02), December 2002, pp. 183-188.",
+            "remark":"(EI)"
+        },
+        {
+            "author":"Pi-Chung Wang, Chia-Tai Chan, Wei-Chun Tseng and Yaw-Chung Chen",
+            "topic":"Fast Trie-based Routing Lookup with Tiny Searchable Coree",
+            "publisher":"IEEE Global Telecommunications Conference (GLOBECOM’02) , Vol. 3, November 2002, pp. 2328-2332.",
+            "remark":"(EI)"
+        },
+        {
+            "author":"Pi-Chung Wang, Chia-Tai Chan, Shuo-Cheng Hu, Wei-Chun Tseng and Yaw-Chung Chen",
+            "topic":"Fast Packet Classification through Reduction and Lookahead Caching",
+            "publisher":"IEEE International Conference on Networks (ICON’02), August 2002, pp. 197-202.",
+            "remark":"(EI)"
+        },
+        {
+            "author":"Pi-Chung Wang, Wei-Chun Tseng, Chia-Tai Chan, and Yaw-Chung Chen",
+            "topic":"Gigabit Packet Classification by Using Lookahead Caching",
+            "publisher":"IEEE International Computer Software and Applications Conference (COMPSAC’02), August 2002, pp. 117-121.",
+            "remark":"(EI)"
+        },
+        {
+            "author":"Pi-Chung Wang, Chia-Tai Chan, and Yaw-Chung Chen",
+            "topic":"Fast Table Update Scheme for High-Performance IP Forwarding",
+            "publisher":"IEEE International Conference on Parallel and Distributed Systems (ICPADS’01), June 2001, pp. 592-597.",
+            "remark":"(EI)"
+        },
+        {
+            "author":"楊元榮，林峻吉，彭成竹，詹家泰",
+            "topic":"下一代語音服務架構之設計分析",
+            "publisher":"第十二屆國際資訊管理學術研討會(ICIM’01), Taipei, May 2001, A65.",
+            "remark":""
+        },
+        {
+            "author":"Chia-Tai Chan, Shuo-Cheng Hu, and Pi-Chung. Wang",
+            "topic":"Provisioning Premium Services without Per-Flow Management in DiffServ Architecture",
+            "publisher":"IEEE International Conference on ATM (ICATM’01), April 2001, pp. 102-107.",
+            "remark":""
+        },
+        {
+            "author":"Pi-Chung Wang, Chia-Tai Chan, and Yaw-Chung Chen",
+            "topic":"Routing Interval: A New Concept for IP Routing Table Lookups",
+            "publisher":"IEEE International Conference on ATM (ICATM’01), April 2001, pp. 310-315.",
+            "remark":""
+        },
+        {
+            "author":"Chia-Tai Chan, Chun-Liang Lee, Shuo-Cheng Hu and Yaw-Chung Chen",
+            "topic":"An Efficient Rate Control for Point-to-Multipoint ABR Service in ATM Networks",
+            "publisher":"IEEE International Conference on Software Telecommunication and Computer Networks (SoftCOM’00), October 2000, pp.255-262.",
+            "remark":""
+        },
+        {
+            "author":"Pi-Chung Wang, Chia-Tai Chan, and Yaw-Chung Chen",
+            "topic":"IP-Address Lookup Using Hardware Pipelining",
+            "publisher":"IEEE International Conference on Software Telecommunication and Computer Networks (SoftCOM’00), October 2000, pp.207-216.",
+            "remark":""
+        },
+        {
+            "author":"Shuo-Cheng Hu, Pi-Chung Wang, Yaw-Chung Chen, and, Chia-Tai Chan",
+            "topic":"Virtual Buffering Strategy for GFR Services in IP/ATM Internetworks",
+            "publisher":"IEEE European Conference on Universal Multiservice Networks (ECUMN’00), October 2000, pp. 164-170.",
+            "remark":""
+        },
+        {
+            "author":"Pi-Chung Wang, Chia-Tai Chan, and Yaw-Chung Chen",
+            "topic":"A Scalable Queue Management for Shared Buffer Switch Architecture",
+            "publisher":"International symposium on Communication Systems, Networking and Digital Signal Processing (CSNDSP’00), July 2000, pp. 290-293.",
+            "remark":""
+        },
+        {
+            "author":"Pi-Chung Wang, Chia-Tai Chan, and Yaw-Chung Chen",
+            "topic":"A Fast IP Lookup Scheme",
+            "publisher":"IEEE International Conference on Communications (ICC’00), June 2000, pp. 1140-1144.",
+            "remark":"(EI)"
+        },
+        {
+            "author":"Pi-Chung Wang, Chia-Tai Chan, and Yaw-Chung Chen",
+            "topic":"An Intelligent Buffer Management Approach for GFR services in IP/ATM Internetworks",
+            "publisher":"IEEE International Conference on Networks (ICON’99), September 1999, pp. 156-162.",
+            "remark":""
+        },
+        {
+            "author":"Jiu-Ru Chen, Yaw-Chung Chen, and Chia-Tai Chan",
+            "topic":"A Distributed End-to-End Control Scheme for ABR Service",
+            "publisher":"IEEE Global Telecommunications Conference (GLOBECOM’98), November 1998, pp. 2446-2451.",
+            "remark":"(EI)"
+        },
+        {
+            "author":"Chia-Tai Chan, Yaw-Chung Chen, and Pi-Chung Wang",
+            "topic":"An Efficient Traffic Control Approach for GFR Services in IP/ATM Internetworkse",
+            "publisher":"IEEE Global Telecommunications Conference (GLOBECOM’98), November 1998, pp. 1112-1117.",
+            "remark":"(EI)"
+        },
+        {
+            "author":"Yaw-Chung Chen, Chia-Tai Chan and Shuo-Cheng Hu",
+            "topic":"A Traffic Control Approach for Voice over ATM Networks",
+            "publisher":"Proceedings of Taiwan-Japan Joint Workshop on the Latest Development of Telecommunication Research (TJCOM’98), January 1998, pp. 71-75.",
+            "remark":""
+        },
+        {
+            "author":"Yaw-Chung Chen, Chia-Tai Chan and Shuo-Cheng Hu",
+            "topic":"An Adaptive Priority Control Approach for Guaranteed Services in ATM Networks",
+            "publisher":"International Conference on Information, Communications and signal Processing  (ICICS’97), September 1997, pp.1518-1521.",
+            "remark":""
+        },
+        {
+            "author":"Yaw-Chung Chen, Shuo-Cheng Hu, and Chia-Tai Chan",
+            "topic":"Least Required Bandwidth in VP-Based ATM Network",
+            "publisher":"International Conference on Information, Communications and signal Processing (ICICS’97), September 1997, pp. 1504-1507.",
+            "remark":""
+        },
+        {
+            "author":"Yaw-Chung Chen, Chia-Tai Chan, Shuo-Cheng Hu, and Pi-Chung Wang",
+            "topic":"Traffic Control for Delay Sensitive Services on Internet",
+            "publisher":"Proceedings of International Conference on Computer Systems Technology for Industrial Applications (CSIA’97), April 1997, pp. 127-133.",
+            "remark":""
+        },
+        {
+            "author":"Yaw-Chung Chen, Chia-Tai Chan and I. S. Tseng",
+            "topic":"Design and Performance Evaluation of Host Interface for ATM Networks",
+            "publisher":"Proceedings of International Conference on Information Networking (ICOIN-11), January 1997, pp. 3A-2.1~3A-2.10.",
+            "remark":""
+        }
+    ],
+    "thesis":[
+        {
+            "author":"Chia-Tai Chan",
+            "topic":"Studies of Traffic Control Approaches for ATM Networks",
+            "publisher":"Ph.D. Dissertation, Department of Computer Science and Information Engineering, National Chiao Tung University, Hsinchu, Taiwan, Republic of China, November 1998.",
+            "remark":""
+        },
+        {
+            "author":"Chia-Tai Chan",
+            "topic":"The Switch Trunk Buffer Management for Congestion Control in Frame Relay Network",
+            "publisher":"Master Thesis, Department of Computer Science and Information Engineering, National Chiao Tung University, Hsinchu, Taiwan, Republic of China, June 1992.",
+            "remark":""
+        }
+    ]
+}
